@@ -1,4 +1,4 @@
-# Loan Qualyfier App
+# Loan Qualifier App
 
 Developing an app to save the qualifying loans to a CSV file so that can be shared the results as a spreadsheet.
 
