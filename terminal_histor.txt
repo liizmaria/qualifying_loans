@@ -1,0 +1,960 @@
+   50  cd test
+   51  cd
+   52  ls
+   53  cd
+   54  git clone <Prework-test>
+   55  git clone <Prework-Test>
+   56  clear
+   57  /Users/lizpanza/Documents/GitHub
+   58  cd /Users/lizpanza/Documents/GitHub
+   59  git clone <Prework-Test>
+   60  cd
+   61  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   62  claer
+   63  new
+   64  clean
+   65  clear
+   66  ls -al ~/.ssh
+   67  ssh-keygen -t rsa -b 4096 -C "liizmaria_@live.com"
+   68   ssh-keygen -t rsa -b 4096 -C "liizmaria_@live.com"
+   69  ls -al ~/.ssh
+   70  ssh-keygen -t rsa -b 4096 -C "liizmaria_@live.com"
+   71  eval "$(ssh-agent -s)"
+   72  ssh-add ~/.ssh/id_rsa
+   73  clip < ~/.ssh/id_rsa.pub
+   74  conda create -n dev python=3.7 anaconda
+   75  conda activate dev
+   76  echo ${SHELL}
+   77  conda init zsh
+   78  conda deactivate
+   79  claer
+   80  clear
+   81  ls
+   82  cd Desktop
+   83  pwd
+   84  ls
+   85  mkdir Fintech-Workspace
+   86  ls
+   87  cd Fintech-Workspace
+   88  ls
+   89  cd ..
+   90  cd ~
+   91  pwd
+   92  clear
+   93  ls
+   94  cd Desktop
+   95  cd Fintech-Workspace
+   96  cd Python_Project
+   97  cd Python_Project
+   98  ls
+   99  conda activate
+  100  conda activate dev
+  101  python --version
+  102  code .
+  103  hello_python.py
+  104  code .
+  105  python hello_python.py
+  106  conda deactivate
+  107  conda activate dev
+  108  python M1L3.py
+  109  ls -al ~/.ssh
+  110  ssh-keygen -t rsa -b 4096 -C "liizmaria_@live.com"
+  111  eval "$(ssh-agent -s)"
+  112  ssh-add ~/.ssh/id_rsa
+  113  pbcopy < ~/.ssh/id_rsa.pub
+  114  clear
+  115  python variable.py
+  116  cd /Users/lizpanza/Downloads/Class_1_Activities
+  117  python varialble.py
+  118  clear
+  119  conda activate dev
+  120  /Users/lizpanza/Downloads/Class_1_Activities
+  121  ls
+  122  cd ~
+  123  /Users/lizpanza/Downloads/Class_1_Activities
+  124  message = f"The total kilometers driven was: {kilometers}"\nprint(message)
+  125  variable.py
+  126  /Users/lizpanza/Desktop/Fintech-Workspace/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+  127  deactivate conda dev 
+  128  conda deactivate dev
+  129  clear
+  130  activate conda dev
+  131  conda dev deactivate
+  132  conda deactivatr
+  133  yes
+  134  conda activate dev
+  135  /Users/lizpanza/Desktop/Fintech-Workspace/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+  136  cd
+  137  cd Fintech-Workspace
+  138  cd Desktop 
+  139  cd Fintech-Workspace
+  140  /Users/lizpanza/Desktop/Fintech-Workspace/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+  141  cd Class_1_Activities
+  142  clear
+  143  conda deactivate
+  144  cd ~
+  145  clear
+  146  ls -al ~/.ssh
+  147  ssh-keygen -t rsa -b 4096 -C "liizmaria_@live.com"
+  148  eval "$(ssh-agent -s)"
+  149  ssb
+  150  ssh-add~/.ssh/id_rsa
+  151  ssh-add ~/.ssh/id_rsa
+  152  pbcopy <~/.ssh/id_rsa.pub
+  153  cat ~/.ssh/id_rsa.pub
+  154  ssh -T git@github.com
+  155  ssh -T git@github.com
+  156  cd desktop
+  157  cd Python_project
+  158  python m1l3.py
+  159  conda activate dev
+  160  python M1L3.py
+  161  python M1L3.py
+  162  python m1l3.py
+  163  python m1l3.py
+  164  clear
+  165  python m1l3.py
+  166  clear
+  167  python <M1L3.py>
+  168  python m1l3.py
+  169  clear
+  170  python m1l3.py
+  171  python m1l3.py
+  172  clear
+  173  python m1l3.py
+  174  clear
+  175  python m1l3.py
+  176  clear
+  177  python m1l3.py
+  178  clear´
+  179  clear
+  180  cd hello_variable_world
+  181  cd ~
+  182  cd desktop
+  183  ls
+  184  cd Fintech-Workspace
+  185  cd 01_Hello_Variable_World
+  186  python hello_variable_world.py
+  187  cleae
+  188  clear
+  189  cd unsolved
+  190  python hello_variable_world.py
+  191  python hello_variable_world.py
+  192  clear
+  193  python hello_variable_world.py
+  194  clear
+  195  python hello_variable_world.py
+  196  clear
+  197  python hello_variable_world.py
+  198  clear
+  199  python hello_variable_world.py
+  200  clear
+  201  cd.. 
+  202  cd ..
+  203  cd ..
+  204  cd Python_Project
+  205  python m1l3.py
+  206  cd desktop
+  207  ls
+  208  cd Fintech-Workspace
+  209  conda activate dev
+  210  python <M1L3.py>
+  211  code .
+  212  python <M1L3.py>
+  213  code .
+  214  python <M1L3.py>
+  215  python M1L3.py
+  216  cd Python_Project
+  217  python M1L3.py
+  218  clear
+  219  pytjon m1l3.py
+  220  python m1l3.py
+  221  python m1l3.py
+  222  python m1l3.py
+  223  clear
+  224  conda activate dev
+  225  python m1l3.py
+  226  python m1l3.py
+  227  python m1l3.py
+  228  python m1l3.py
+  229  python m1l3.py
+  230  python m1l3.py
+  231  cd ~
+  232  cd /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/listing_assets.py
+  233  cd desktop 
+  234  cd fintech-workspace
+  235  cd Python_Project
+  236  cd listing_assets.py
+  237  clear
+  238  python listing_assets.py
+  239  python using_dictionaries.py
+  240  python using_dictionaries.py
+  241  python using_dictionaries.py
+  242  python using_dictionaries.py
+  243  python using_dictionaties.py
+  244  python using_dictionaries.py
+  245  clear
+  246  python using_dictionaries.pu
+  247  python using_dictionaries.py
+  248  python using_dictionaries.py
+  249  ython using_dictiona\nries.py
+  250  python using_dictiona\nries.py
+  251  python using_dictionaries.py
+  252  cleae
+  253  clear
+  254  python the_401K_shuffle.py
+  255  clear
+  256  python the_401K_shuffle.py
+  257  python the_401K_shuffle.py
+  258  python the_401K_shuffle.py
+  259  clear
+  260  python the_401K_shuffle.py
+  261  python the_401K_shuffle.py
+  262  conda activate dev
+  263  clear
+  264  python m1l4.py
+  265  conda activate dev
+  266  p
+  267  python m1l4.py
+  268  cd "/Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L4.py"
+  269  cd python_project
+  270  python m1l4.py
+  271  python m1l4.py
+  272  python m1l4.py
+  273  clear
+  274  cd ../01_
+  275  cd ../01_
+  276  cd ../01_Conditional_Statement
+  277  cd unsolved
+  278  cd conditional_statement.py
+  279  python conditional_statement.py
+  280  cd ../..
+  281  cd Python_Project
+  282  python m1l4.py
+  283  python m1l4.py
+  284  python m1l4.py
+  285  clear
+  286  cd ../02_Nested_Conditionals
+  287  cd unsolved
+  288  python nested_conditionals.py
+  289  python nested_conditionals.py
+  290  python nested_conditionals.py
+  291  python nested_conditionals.py
+  292  cd Python_Project
+  293  python listing_assets.py
+  294  cd ../Starter_Code
+  295  python loan_analyzer.py 
+  296  cd Starter_Code
+  297  python loan_analyzer.py
+  298  cd ../03_Split_Second_Homebuying
+  299  cd Unsolved
+  300  python split_second_homebuying.py
+  301  python split_second_homebuying.py
+  302  python split_second_homebuying.py
+  303  python split_second_homebuying.py
+  304  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/functions.py
+  305  cd Python_Project/python python_functions.py
+  306  cd Python_Project
+  307  python python_functions.py
+  308  python python_functions.py
+  309  python functions.py
+  310  python functions.py
+  311  conda activate dev
+  312  python functions.py
+  313  cd Python_Project
+  314  python functions.py
+  315  python functions.py
+  316  python functions.py
+  317  python functions.py
+  318  python functions.py
+  319  clear
+  320  conda activate dev
+  321  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/functions.py
+  322  /usr/local/bin/python3
+  323  clear
+  324  def add(first_number, second_number):
+  325      total = first_number + second_number
+  326      print("Your total is: ", total)
+  327  add (105,150)
+  328  clear
+  329  conda activate dev
+  330  cd Python_Project
+  331  python functions.py
+  332  python functions.py
+  333  python functions.py
+  334  python functions.py
+  335  clear
+  336  cd ../01_A_Definitive_Buy
+  337  cd Unsolved
+  338  python a_definitive_buy.py
+  339  cd ../cd Python_Project
+  340  cd../
+  341  cd ../ ../
+  342  cd ..
+  343  cd ..
+  344  cd Python_Project
+  345  clear
+  346  python functions.py
+  347  python functions.py
+  348  clear
+  349  python functions.py
+  350  cd..
+  351  cd ..
+  352  cd Starter_Code
+  353  python loan_analyzer.py
+  354  python loan_analyzer.py
+  355  python loan_analyzer.py
+  356  python loan_analyzer.py
+  357  python loan_analyzer.py
+  358  python loan_analyzer.py
+  359  clear
+  360  python loan_analyzer.py
+  361  python loan_analyzer.py
+  362  python loan_analyzer.py
+  363  python loan_analyzer.py
+  364  python loan_analyzer.py
+  365  clear
+  366  python loan_analyzer.py
+  367  python loan_analyzer.py
+  368  python loan_analyzer.py
+  369  clear
+  370  cd .. 
+  371  cd 02_Returned_Goods
+  372  cd unsolved
+  373  python returned_goods.py
+  374  python returned_goods.py
+  375  python returned_goods.py
+  376  clear
+  377  cd ..
+  378  cd ..
+  379  cd 03_Split_Second_Homebuying_Part_2
+  380  cd unsolved
+  381  python split_second_part_2.py
+  382  python split_second_part_2.py 
+  383  python split_second_part_2.py
+  384  clear
+  385  python split_second_part_2.py
+  386  python split_second_part_2.py
+  387  clear
+  388  cd .. 
+  389  cd ..
+  390  cd Starter_Code
+  391  python loan_analyzer.py
+  392  python loan_analyzer.py
+  393  python loan_analyzer.py
+  394  python loan_analyzer.py
+  395  python loan_analyzer.py
+  396  clear
+  397  python loan_analyzer.py
+  398  cd Starter_Code
+  399  python loan_analyzer.py
+  400  cd
+  401  cd desktop
+  402  cd Fintech-Workspace
+  403  cd Python_Project
+  404  python m1l6.py
+  405  python m1l6.py
+  406  clear
+  407  python m1l6.py
+  408  python m1l6.py
+  409  python m1l6.py
+  410  conda activate dev
+  411  python m1l6.py
+  412  print m1l6.py
+  413  python m1l6.py
+  414  cd ..
+  415  cd 01_Racking_Up_The_Profit
+  416  cd unsolved
+  417  python racking_up_the_profit.py
+  418  python racking_up_the_profit.py
+  419  clear
+  420  python racking_up_the_profit.py
+  421  python racking_up_the_profit.py
+  422  python racking_up_the_profit.py
+  423  cd Python_Project
+  424  python m1l6.py
+  425  cd ../ cd Starter_Code
+  426  cd ../cd Starter_Code
+  427  cd ..
+  428  cd Starter_Code
+  429  clear
+  430  conda activate dev
+  431  python loan_analyzer.py
+  432  python loan_analyzer.py
+  433  python loan_analyzer.py
+  434  python loan_analyzer.py ´
+  435  python loan_analyzer.py
+  436  clear
+  437  python loan_analyzer.py
+  438  python loan_analyzer.py
+  439  clear
+  440  python loan_analyzer.py
+  441  python loan_analyzer.py
+  442  python loan_analyzer.py
+  443  python loan_analyzer.py
+  444  python
+  445  python loan_analyzer.py
+  446  python loan_analyzer.py
+  447  clear
+  448  python loan_analyzer.py
+  449  python loan_analyzer.py
+  450  python 
+  451  python loan_analyzer.py
+  452  python loan_analyzer.py
+  453  python loan_analyzer.py
+  454  python loan_analyzer.py
+  455  cd desktop
+  456  cd Fintech-Workspace
+  457  cd Starter_Code
+  458  python loan_analyzer.py
+  459  python loan_analyzer.py
+  460  python loan_analyzer.py
+  461  python loan_analyzer.py
+  462  clear
+  463  python loan_analyzer.py
+  464  python loan_analyzer.py
+  465  python loan_analyzer.py
+  466  python loan_analyzer.py
+  467  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  468  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  469  clear
+  470  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  471  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  472  clear
+  473  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  474  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  475  clear
+  476  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  477  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  478  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  479  clear
+  480  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  481  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  482  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  483  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  484  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  485  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  486  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  487  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  488  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  489  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  490  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  491  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  492  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  493  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  494  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  495  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  496  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  497  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  498  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code/loan_analyzer.py
+  499  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  500  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  501  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  502  conda activate dev
+  503  conda activate atmdev
+  504  conda atmdev
+  505  conda activate dev
+  506  clear
+  507  cd "/Users/lizpanza/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm"
+  508  mkdir actions
+  509  cd actions
+  510  touch make_deposit.py
+  511  touch make_withdrawl.py
+  512  /usr/local/bin/python3 /Users/lizpanza/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  513  /usr/local/bin/python3 /Users/lizpanza/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  514  clear
+  515  /usr/local/bin/python3 /Users/lizpanza/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  516  /usr/local/bin/python3 /Users/lizpanza/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  517  conda activate dev
+  518  clear
+  519  cd "/Users/lizpanza/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm"
+  520  clear
+  521  conda create -n atmdev python=3.7 anaconda
+  522  conda activate atmdev
+  523  pip install -requirements.txt
+  524      pip install -r requirements.txt
+  525  cd desktop
+  526  cd /Users/lizpanza/Desktop/Fintech-Workspace/Starter_Code
+  527  python loan_analyzer.py
+  528  python loan_analyzer.py
+  529  clear
+  530  cd "/Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved\n"
+  531  cd "/Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved\n"
+  532  cd ~
+  533  cd "/Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved\n\n"
+  534  cd D
+  535  cd Desktop
+  536  ls
+  537  cd Fintech-Workspace
+  538  ls
+  539  cd 02_Pathways_to_Success_Part_1
+  540  cd Unsolved
+  541  python pathways_to_success.py
+  542  python pathways_to_success.py
+  543  clear
+  544  python pathways_to_success.py
+  545  cd .. 
+  546  clear
+  547  cd Unsolved
+  548  python pathways_to_success.py
+  549  python pathways_to_success.py
+  550  clear
+  551  python 
+  552  python pathways_to_success.py
+  553  cd ..
+  554  cd.. 
+  555  cd ..
+  556  cd 03_Pathways_to_Success_Part_2
+  557  cd Unsolved
+  558  python pathways_to_success_part_2.py
+  559  clear
+  560  ls
+  561  python pathways_to_success_part_2.py
+  562  python pathways_to_success_part_2.py
+  563  cd ../ ../ ..
+  564  cd ../../
+  565  cd Python_Project
+  566  python M1L6.py
+  567  python M1L6.py
+  568  rm my_output.csv
+  569  python M1L6.py
+  570  cd ..
+  571  cd 04_Automating_Equity_Rounds
+  572  cd Unsolved
+  573  python automated_equity_rounds.py
+  574  python automated_equity_rounds.py
+  575  python automated_equity_rounds.py
+  576  python automated_equity_rounds.py
+  577  rm automated_equity_rounds.csv
+  578  python automated_equity_rounds.py
+  579  rm automated_equity_rounds.csv
+  580  python automated_equity_rounds.py 
+  581  clear
+  582  cd ../ ..
+  583  cd ../ ../
+  584  cd ..
+  585  cd ..
+  586  cd Starter_Code/
+  587  conda activate dev
+  588  python loan_analyzer.py
+  589  python loan_analyzer.py
+  590  rm inexpensive_loans.csv
+  591  python loan_analyzer.py
+  592  rm inexpensive_loans.csv
+  593  python loan_analyzer.py
+  594  rm inexpensive_loans.csv
+  595  python loan_analyzer.py
+  596  clear
+  597  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  598  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  599  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  600  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/01_Read_and_Write_CSV/M1L6_pt_2
+  601  clear
+  602  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/01_Read_and_Write_CSV/M1L6_pt_2
+  603  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  604  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  605  clear
+  606  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/01_Read_and_Write_CSV/M1L6_pt_2
+  607  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/01_Read_and_Write_CSV/M1L6_pt_2
+  608  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/01_Read_and_Write_CSV/M1L6_pt_2
+  609  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  610  clear
+  611  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  612  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  613  clear
+  614  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  615  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  616  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  617  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  618  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  619  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/Python_Project/M1L6.py
+  620  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  621  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/building_software_apps.py
+  622  conda activate dev
+  623  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/building_software_apps.py
+  624  clear
+  625  cd module_2
+  626  python building_software_apps.py
+  627  cd 01_Loan_Qualifier_Financial_Calculations
+  628  cd Unsolved
+  629  python app.py
+  630  cd ..
+  631  cd ..
+  632  cd 02_Loan_Qualifier_Filtering_Data
+  633  cd Unsolved
+  634  python app.py
+  635  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  636  clear
+  637  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  638  clear
+  639  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  640  clear
+  641  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  642  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  643  clear
+  644  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  645  clear
+  646  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  647  clear
+  648  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  649  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  650  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  651  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py
+  652  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py
+  653  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py
+  654  clear
+  655  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  656  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  657  clear
+  658  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  659  clear
+  660  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  661  cçear
+  662  clear
+  663  cd ~
+  664  pip install fire
+  665  conda deactivate
+  666  pip install fire
+  667  clear
+  668  conda activate dev
+  669  pip -V
+  670  pip freeze
+  671  pip install fire
+  672  pip install questionary
+  673  cd desktop
+  674  cd Fintech-Workspace
+  675  mkdir module_2
+  676  clear
+  677  cd module_2/
+  678  python building_software_apps.py
+  679  cd 02_Loan_Qualifier_Filtering_Data
+  680  cd Unsolved
+  681  python app.py
+  682  clear
+  683  python app.py
+  684  clear
+  685  ls
+  686  cd ..
+  687  ls
+  688  cd qualifier
+  689  python app.py
+  690  python app.py
+  691  cd "module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/"
+  692  cd "module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils"
+  693  cd ..
+  694  cd ..
+  695  cd Unsolved
+  696  cd qualifier
+  697  cd utils
+  698  python fileio.py
+  699  cd ..
+  700  cd..
+  701  cd ..
+  702  d ..
+  703  cd..
+  704  cd ..
+  705  clear
+  706  cd ..
+  707  cd 01_Modularize_Your_Loan_Qualifier_Application
+  708  cd ..
+  709  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  710  cd Unsolved
+  711  cd qualifier
+  712  mkdir filters
+  713  cd filters
+  714  touch credit_score.py
+  715  touch debt_to_income.py
+  716  touch loan_to_value.py\n
+  717  touch max_loan_size.py
+  718  ls 
+  719  cd ..
+  720  ls
+  721  cd
+  722  cd cd desktop
+  723  cd ..
+  724  ls
+  725  cd lizpanza
+  726  ls
+  727  cd Desktop
+  728  ls
+  729  cd Fintech-Workspace
+  730  ls
+  731  cd module_2
+  732  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  733  clear
+  734  ls
+  735  cd Unsolved
+  736  python app.py
+  737  cd .. 
+  738  cd ..
+  739  cd 02_Loan_Qualifier_Filtering_Data
+  740  cd Unsolved
+  741  python app.py
+  742  clear
+  743  cd ~
+  744  pip instal fire
+  745  pip install fire
+  746  import fire
+  747  clear
+  748  conda deactivate
+  749  pip install fire
+  750  pip install fire
+  751  cd desktop
+  752  cd Fintech-Workspace
+  753  CD module_2
+  754  touch cli.py
+  755  python cli.py
+  756  python cli.py --pants=True
+  757  python cli.py --pants=true
+  758  python cli.py
+  759  cd module_1
+  760  cd ../
+  761  cd module_2
+  762  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  763  clear
+  764  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  765  cd Unsolved
+  766  python app.py --credit_score=750\n
+  767  python app.py --credit_score=750 --debt=5000 ==income=60000
+  768  clear
+  769  python app.py --credit_score=750 --debt=5000 ==income=60000
+  770  python app.py
+  771  python app.py --credit_score=750 --debt=5000 ==income=60000
+  772  python app.py --credit_score=750 --debt=5000 ==income=60000.\n
+  773  python app.py --credit_score=750\n
+  774   python app.py
+  775  python app.py --credit_score=750 --debt=5000 ==income=50000
+  776  conda activate dev
+  777  python app.py --credit_score=750 --debt=5000 ==income=60000
+  778  python app.py --credit_score=750 --debt=3000 --income=50000
+  779  clear
+  780  pip install questionary
+  781  conda deactivater
+  782  yes
+  783  clear
+  784  cd ..
+  785  cd ..
+  786  pip install questionary
+  787  touch dialog.py
+  788  python dialog.py
+  789  conda activate dev
+  790  python dialog.py
+  791  python creating_modular_apps.py
+  792  python dialog.py
+  793  python dialog.py
+  794  python dialog.py
+  795  cd 02_Loan_Qualifier_Filtering_Data
+  796  cd Unsolved
+  797  python app.py --credit_score=750 --debt=5000 --income=20000
+  798  cd ..
+  799  cd..
+  800  cd ..
+  801  cd 02_Adding_questionary_to_Loan_Qualifier
+  802  cd Unsolved
+  803  puthon appy.py --credit_score=750 --debt=5000 --income=20000
+  804  python appy.py --credit_score=750 --debt=5000 --income=20000
+  805  python app.py --credit_score=750 --debt=5000 --income=20000
+  806  python app.py --credit_score=750 --debt=5000 --income=20000
+  807  python app.py --credit_score=750 --debt=5000 --income=20000
+  808  clear
+  809  cd ..
+  810  cd Unsolved/
+  811  python app.py
+  812  python app.py
+  813  python app.py
+  814  python app.pu
+  815  python app.py
+  816  python app.py
+  817  python app.py
+  818  python app.py
+  819  python app.py
+  820  clear
+  821  cd ~
+  822  conda list pandas
+  823  conda list jupyterlab
+  824   python -m ipykernel instal --user --name dev --display-name "Python (dev)"
+  825  jupyterlab
+  826  jupyter lab
+  827  jupyter lab
+  828  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/cli.py
+  829  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/cli.py
+  830  /usr/local/bin/python3 /Users/lizpanza/Desktop/Fintech-Workspace/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  831  cleaer
+  832  clear
+  833  conda activate dev
+  834  git config --global user.name <Liz Panza>
+  835  git config --global user.LizPanza
+  836  git confih --global user.liizmaria_@live.com
+  837  git config --global user.liizmaria_@live.com
+  838  git config --list
+  839  git clone https://github.com/liizmaria/loan_analyzer.git
+  840  git clone https://github.com/liizmaria/Fintech-Class.git
+  841  cd desktop
+  842  ls
+  843  cd GitHub_Upload
+  844  ls
+  845  clear
+  846  cd desktop
+  847  cd ~
+  848  git clone https://github.com/liizmaria/loan_analyzer.git
+  849  cd loan_analyzer
+  850  ls
+  851  cd ~
+  852  git clone https://github.com/liizmaria/Fintech-Class.git
+  853  cd Fintech-Class
+  854  ls
+  855  git status
+  856  git status
+  857  git status
+  858  git status
+  859  git add -A
+  860  git status
+  861  git status
+  862  git pull fun.py
+  863  code .
+  864  git status
+  865  git add -A
+  866  git status
+  867  git commit -m "Adding fun to it"
+  868  git push
+  869  git config list
+  870  git config --list
+  871  git push
+  872  /usr/local/bin/python3 /Users/lizpanza/Desktop/GitHub_Upload/fun.py
+  873  git status
+  874  /usr/local/bin/python3 /Users/lizpanza/Desktop/GitHub_Upload/fun.py
+  875  /usr/local/bin/python3 /Users/lizpanza/Desktop/GitHub_Upload/fun.py
+  876  /usr/local/bin/python3 /Users/lizpanza/Fintech-Class/GitHub_Upload/fun.py
+  877  /usr/local/bin/python3 /Users/lizpanza/Fintech-Class/GitHub_Upload/fun.py
+  878  clear
+  879  git config --list
+  880  cd Fintech-Class
+  881  ls
+  882  cd GitHub_Upload
+  883  code .
+  884  git status
+  885  git status
+  886  git commit -m adding answer
+  887  git add -A
+  888  git status
+  889  git commit -m "adding answer"
+  890  git push
+  891  git remote set-url git@github.com:liizmaria/Fintech-Class.git
+  892  git remote -v
+  893  git clone git@github.com:liizmaria/Fintech-Class.git
+  894  ls
+  895  git status
+  896  code .
+  897  git status
+  898  git add -A
+  899  git stauts
+  900  git status
+  901  git commit -m "moving README.md folders"
+  902  git push
+  903  cd Desktop
+  904  cd Fintech-Workspace
+  905  cd Starter_Code-2
+  906  code .
+  907  cd ~
+  908  git clone git@github.com:liizmaria/qualifying_loans.git
+  909  cd desktop
+  910  ls 
+  911  cd Fintech-Workspace
+  912  cd Starter_Code-2
+  913  git status 
+  914  cd loan_qualifier_app
+  915  git status
+  916  ls
+  917  cd ~
+  918  ls
+  919  cd qualifying_loans
+  920  git status
+  921  code . 
+  922  ls
+  923  cd qualifying_loans
+  924  git status
+  925  git commit -m "Adding new save_csv function into the existing loan qualifier app."
+  926  git add -A
+  927  git commit -m "Adding new save_csv function into the existing loan qualifier app."
+  928  git push
+  929  git pull
+  930  cd qualifying_loans
+  931  git status
+  932  git commit -m "Integrating new function \n"
+  933  cd ~
+  934  conda activate dev
+  935  ls -al ~/.ssh
+  936  ssh-keygen -t rsa -b 4096 -C "liizmaria_@live.com"
+  937  eval "$(ssj-agent -s)"
+  938  eval "$(ssh-agent -s)"
+  939  ssh-add ~/.ssh/id_rsa
+  940  clip < ~/.ssh/id_rsa.pub
+  941  clip < ~/.ssh/id_rsa.pub
+  942  cat ~/.ssh/id_rsa.pub
+  943  ssh -T git@github.com
+  944  clear
+  945  /usr/local/bin/python3 /Users/lizpanza/qualifying_loans/loan_qualifier_app/app.py
+  946  conda activate dev
+  947  /usr/local/bin/python3 /Users/lizpanza/qualifying_loans/loan_qualifier_app/app.py
+  948  clear
+  949  cd ~
+  950  cd qualifying_loans
+  951  ls
+  952  cd loan_qualifier_app
+  953  clear
+  954  cd qualifying_loans
+  955  code .
+  956  git status
+  957  git add -A
+  958  git commit -m "Integrating save_csv function to save the qualifying data as file"
+  959  git push
+  960  git status
+  961  python app.py
+  962  ls
+  963  cd loan_qualifier_app
+  964  ls
+  965  python app.py
+  966  conda activate dev
+  967  python app.py
+  968  python app.py
+  969  clear
+  970  git status
+  971  git add -A
+  972  git commit -m "Integrating function that accepts qualifying loans and creating dialogs prompting weather user wants to save their qualifying loans also questionary prompting user ans asking for the output file path."
+  973  cd ~
+  974  ls
+  975  cd Fintech-Class/
+  976  ls
+  977  cd ..
+  978  cd Desktop
+  979  ls
+  980  cd Fintech-Workspace
+  981  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-06-2022-U-B.git
+  982  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-06-2022-U-B.git
+  983  cd ~
+  984  cd qualifying_loans
+  985  cd loan_qualifier_app
+  986  git status
+  987  git push
+  988  git stATUS
+  989  git status
+  990  cs ~
+  991  cd ~
+  992  cd Desktop
+  993  ls
+  994  cd Fintech-Workspace
+  995  ls
+  996  cd UCB-VIRT-FIN-PT-06-2022-U-B
+  997  git pull
+  998  clear
+  999  cd ~
+ 1000  jupyter lab
+ 1001  cd qualifying_loans
+ 1002  code .
+ 1003  git status
+ 1004  git status
+ 1005  git add -A
+ 1006  git commit -m "README.md commented"
+ 1007  git status
+ 1008  git push
+ 1009  git status
