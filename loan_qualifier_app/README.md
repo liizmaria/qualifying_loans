@@ -6,7 +6,7 @@ Developing an app to save the qualifying loans to a CSV file so that can be shar
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This program was developed using Python language through VS Code - as a notebook - throughout the software I used questionary and Fire libraries to develop a clean CLI.
 
 ---
 
@@ -24,7 +24,7 @@ This section should include screenshots, code blocks, or animations explaining h
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+This was a project developed as a group during a Fintech Bootcamp. 
 
 ---
 
