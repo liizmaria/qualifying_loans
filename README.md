@@ -38,7 +38,7 @@ python app.py
 
 Upon launching the qualifying loan will be greeted with the following prompts.
 
-![Loan Qualifier](Desktop/app.png)
+![Loan Qualifier](images/app.png)
 
 ---
 
