@@ -50,4 +50,4 @@ This was a project developed as a group during a Fintech Bootcamp.
 
 ## License
 
-UC Berkley Extension
+MIT
