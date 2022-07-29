@@ -36,9 +36,9 @@ To use the application simply clone the repository and run the **app.py** :
 python app.py 
 ```
 
-Upon launching the qualifying loan will be greeted with the following prompts.
+Upon launching the qualifying loan will be greeted with the following prompts and you can input the infos as below:
 
-![Loan Qualifier](app.png)
+![Loan Qualifier](Exemple.png)
 
 ---
 
